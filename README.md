@@ -1,0 +1,61 @@
+<div align="center">
+
+📖
+
+# konsep-diri
+
+**Dokumen refleksi dan konsep diri.**
+
+![Markdown](https://img.shields.io/badge/Markdown-gray?style=for-the-badge) ![PDF](https://img.shields.io/badge/PDF-gray?style=for-the-badge) ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge) ![Status](https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge)
+
+</div>
+
+## Overview
+
+Dokumen refleksi dan konsep diri. Repositori ini merupakan bagian dari koleksi proyek Arya Fatthurahman di bidang AI Engineering, Software, Data, dan Cloud.
+
+## Features
+
+- Dokumen refleksi pribadi
+- Tiga versi final konsep diri
+- Arsip PDF
+
+## Project Structure
+
+```text
+konsep-diri/
+|-- .gitignore
+|-- Konsep_Diri_Muhammad_Arya_Fatthurahman (1).pdf
+|-- Konsep_Diri_Muhammad_Arya_Fatthurahman.pdf
+|-- Konsep_Diri_Muhammad_Arya_Fatthurahman_Final.pdf
+```
+
+## Getting Started
+
+`ash
+git clone https://github.com/aryafatthurahman4-collab/konsep-diri.git
+cd konsep-diri
+`
+
+Ikuti petunjuk pada file dokumentasi di dalam repository untuk menyiapkan lingkungan pengembangan.
+
+## Tech Stack
+
+- Markdown
+- PDF
+
+## License
+
+Proyek ini dilisensikan di bawah MIT License. Lihat file [LICENSE](LICENSE).
+
+## Author
+
+**Arya Fatthurahman** - AI Engineering, Software, Data & Cloud - Jakarta, Indonesia
+
+[GitHub](https://github.com/aryafatthurahman4-collab)
+
+---
+
+<div align="center">
+  <sub>Beri star jika repositori ini bermanfaat!</sub>
+</div>
