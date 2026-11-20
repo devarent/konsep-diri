@@ -36,7 +36,7 @@ self-concept-reflection is a hands-on repository focused on: Dokumen refleksi da
 <!-- dbx-style-kit -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/konsep-diri-1f6feb?style=for-the-badge" alt="konsep-diri" />
+<img src="https://img.shields.io/badge/self-concept-reflection-1f6feb?style=for-the-badge" alt="self-concept-reflection" />
 <img src="https://img.shields.io/badge/LANG%20multi-3178c6?style=for-the-badge" alt="LANG multi" />
 <img src="https://img.shields.io/badge/STARS%200-eab308?style=for-the-badge" alt="STARS 0" />
 <img src="https://img.shields.io/badge/LICENSE%20MIT-22c55e?style=for-the-badge" alt="LICENSE MIT" />
@@ -59,7 +59,7 @@ self-concept-reflection is a hands-on repository focused on: Dokumen refleksi da
 
 📖
 
-# konsep-diri
+# self-concept-reflection
 
 **Dokumen refleksi dan konsep diri.**
 
@@ -80,7 +80,7 @@ Dokumen refleksi dan konsep diri. Repositori ini merupakan bagian dari koleksi p
 ## Project Structure
 
 ```text
-konsep-diri/
+self-concept-reflection/
 |-- .gitignore
 |-- Konsep_Diri_Muhammad_Arya_Fatthurahman (1).pdf
 |-- Konsep_Diri_Muhammad_Arya_Fatthurahman.pdf
@@ -90,8 +90,8 @@ konsep-diri/
 ## Getting Started
 
 `ash
-git clone https://github.com/devarent/konsep-diri.git
-cd konsep-diri
+git clone https://github.com/devarent/self-concept-reflection.git
+cd self-concept-reflection
 `
 
 Ikuti petunjuk pada file dokumentasi di dalam repository untuk menyiapkan lingkungan pengembangan.
@@ -120,7 +120,7 @@ Proyek ini dilisensikan di bawah MIT License. Lihat file [LICENSE](LICENSE).
 
 ## Project Governance
 
-[![CI](https://github.com/devarent/konsep-diri/actions/workflows/ci.yml/badge.svg)](https://github.com/devarent/konsep-diri/actions/workflows/ci.yml)
+[![CI](https://github.com/devarent/self-concept-reflection/actions/workflows/ci.yml/badge.svg)](https://github.com/devarent/self-concept-reflection/actions/workflows/ci.yml)
 
 [Contributing](CONTRIBUTING.md) | [Security Policy](SECURITY.md) | [Code of Conduct](CODE_OF_CONDUCT.md)
 
