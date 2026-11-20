@@ -1,4 +1,38 @@
 
+<!-- identity-block -->
+<div align="center">
+
+# self-concept-reflection
+
+<sub>Dokumen refleksi dan konsep diri.</sub>
+
+</div>
+
+## At a glance
+
+| Field | Detail |
+| --- | --- |
+| Repository | self-concept-reflection |
+| Primary language | Mixed / documentation |
+| Topics | documentation, markdown, personal, portfolio, reflection |
+| License | MIT |
+| Branch | master |
+| Maintainer | [@devarent](https://github.com/devarent) |
+
+## Overview
+
+self-concept-reflection is a hands-on repository focused on: Dokumen refleksi dan konsep diri.. Primary language: Mixed / documentation. Topics: documentation, markdown, personal, portfolio, reflection. The README below documents the project; use the table above for a quick overview.
+
+### Global references
+
+<div align="center">
+
+🇮🇸 Iceland &middot; 🇳🇿 New Zealand &middot; 🇨🇭 Switzerland &middot; 🇸🇮 Slovenia &middot; 🇮🇪 Ireland &middot; 🇦🇹 Austria &middot; 🇵🇹 Portugal &middot; 🇸🇬 Singapore &middot; 🇫🇮 Finland
+
+</div>
+
+---
+
 <!-- dbx-style-kit -->
 <div align="center">
 
